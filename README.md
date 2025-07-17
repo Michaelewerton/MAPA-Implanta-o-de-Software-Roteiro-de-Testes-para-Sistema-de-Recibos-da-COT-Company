@@ -46,6 +46,6 @@ Ação: QUANDO...
 
 Resultado esperado: ENTÃO...
 
-✅ Resultado da avaliação
+Resultado da avaliação
 
 Avaliação máxima (5,00/5,00), com destaque para organização, clareza dos testes e compreensão total dos requisitos e estruturas de teste.
